@@ -1,4 +1,12 @@
 body {
   background-color: #32b362;
 }
+
+.deck {
+  position: relative;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+}
 /*# sourceMappingURL=style.css.map */
